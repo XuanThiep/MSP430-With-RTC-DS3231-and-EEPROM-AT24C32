@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>116</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+      <QuickWatch>
+        <col-names>
+          <item>Expression</item>
+          <item>Location</item>
+          <item>Type</item>
+          <item>Value</item>
+        </col-names>
+        <col-widths>
+          <item>100</item>
+          <item>150</item>
+          <item>100</item>
+          <item>100</item>
+        </col-widths>
+        <QWatchHistory>
+          <item>aclk</item>
+          <item>smclk</item>
+          <item>mclk</item>
+          <item>a</item>
+        </QWatchHistory>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+      </QuickWatch>
+      <WATCH_1>
+        <expressions>
+          
+          
+          
+        <item>receive_data</item><item/></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>100</item><item>150</item><item>100</item><item>271</item></col-widths>
+      </WATCH_1>
+    <PROJECT_GUI_CALL_GRAPH><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><col-names><item>File</item><item>Function</item><item>Line</item></col-names><col-widths><item>200</item><item>700</item><item>100</item></col-widths></PROJECT_GUI_CALL_GRAPH></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-31986-25378</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>emptyProject</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7834-26854</Identity>
+            <TabName>Watch 1</TabName>
+            <Factory>WATCH_1</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2><Tabs><Tab><Identity>TabID-27860-25383</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>76</YPos2><SelStart2>2228</SelStart2><SelEnd2>2228</SelEnd2></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\MSP430F5xx_6xx\usci_b_i2c.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>127</YPos2><SelStart2>5123</SelStart2><SelEnd2>5123</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\mymsp430.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>85</YPos2><SelStart2>4510</SelStart2><SelEnd2>4510</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-010B38B8><key>iaridepm.enu1</key></Toolbar-010B38B8></Sizes></Row0><Row1><Sizes><Toolbar-2992C960><key>debuggergui.enu1</key></Toolbar-2992C960></Sizes></Row1><Row2><Sizes><Toolbar-2992D518><key>430fet1</key></Toolbar-2992D518></Sizes></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7><Row8><Sizes/></Row8><Row9><Sizes/></Row9><Row10><Sizes/></Row10><Row11><Sizes/></Row11><Row12><Sizes/></Row12><Row13><Sizes/></Row13><Row14><Sizes/></Row14><Row15><Sizes/></Row15><Row16><Sizes/></Row16><Row17><Sizes/></Row17><Row18><Sizes/></Row18><Row19><Sizes/></Row19><Row20><Sizes/></Row20><Row21><Sizes/></Row21><Row22><Sizes/></Row22><Row23><Sizes/></Row23><Row24><Sizes/></Row24><Row25><Sizes/></Row25><Row26><Sizes/></Row26><Row27><Sizes/></Row27><Row28><Sizes/></Row28><Row29><Sizes/></Row29><Row30><Sizes/></Row30><Row31><Sizes/></Row31><Row32><Sizes/></Row32><Row33><Sizes/></Row33><Row34><Sizes/></Row34><Row35><Sizes/></Row35><Row36><Sizes/></Row36><Row37><Sizes/></Row37><Row38><Sizes/></Row38><Row39><Sizes/></Row39><Row40><Sizes/></Row40><Row41><Sizes/></Row41><Row42><Sizes/></Row42><Row43><Sizes/></Row43><Row44><Sizes/></Row44><Row45><Sizes/></Row45><Row46><Sizes/></Row46><Row47><Sizes/></Row47><Row48><Sizes/></Row48><Row49><Sizes/></Row49><Row50><Sizes/></Row50><Row51><Sizes/></Row51><Row52><Sizes/></Row52><Row53><Sizes/></Row53><Row54><Sizes/></Row54><Row55><Sizes/></Row55><Row56><Sizes/></Row56><Row57><Sizes/></Row57><Row58><Sizes/></Row58><Row59><Sizes/></Row59><Row60><Sizes/></Row60><Row61><Sizes/></Row61><Row62><Sizes/></Row62><Row63><Sizes/></Row63><Row64><Sizes/></Row64><Row65><Sizes/></Row65><Row66><Sizes/></Row66><Row67><Sizes/></Row67><Row68><Sizes/></Row68><Row69><Sizes/></Row69><Row70><Sizes/></Row70><Row71><Sizes/></Row71><Row72><Sizes/></Row72><Row73><Sizes/></Row73><Row74><Sizes/></Row74><Row75><Sizes/></Row75><Row76><Sizes/></Row76><Row77><Sizes/></Row77><Row78><Sizes/></Row78><Row79><Sizes/></Row79><Row80><Sizes/></Row80><Row81><Sizes/></Row81><Row82><Sizes/></Row82><Row83><Sizes/></Row83><Row84><Sizes/></Row84><Row85><Sizes/></Row85><Row86><Sizes/></Row86><Row87><Sizes/></Row87><Row88><Sizes/></Row88><Row89><Sizes/></Row89><Row90><Sizes/></Row90><Row91><Sizes/></Row91><Row92><Sizes/></Row92><Row93><Sizes/></Row93><Row94><Sizes/></Row94><Row95><Sizes/></Row95><Row96><Sizes/></Row96><Row97><Sizes/></Row97><Row98><Sizes/></Row98><Row99><Sizes/></Row99><Row100><Sizes/></Row100><Row101><Sizes/></Row101><Row102><Sizes/></Row102><Row103><Sizes/></Row103><Row104><Sizes/></Row104><Row105><Sizes/></Row105><Row106><Sizes/></Row106><Row107><Sizes/></Row107><Row108><Sizes/></Row108><Row109><Sizes/></Row109><Row110><Sizes/></Row110><Row111><Sizes/></Row111><Row112><Sizes/></Row112><Row113><Sizes/></Row113><Row114><Sizes/></Row114><Row115><Sizes/></Row115><Row116><Sizes/></Row116><Row117><Sizes/></Row117><Row118><Sizes/></Row118><Row119><Sizes/></Row119><Row120><Sizes/></Row120><Row121><Sizes/></Row121><Row122><Sizes/></Row122><Row123><Sizes/></Row123><Row124><Sizes/></Row124><Row125><Sizes/></Row125><Row126><Sizes/></Row126><Row127><Sizes/></Row127><Row128><Sizes/></Row128><Row129><Sizes/></Row129><Row130><Sizes/></Row130><Row131><Sizes/></Row131><Row132><Sizes/></Row132><Row133><Sizes/></Row133><Row134><Sizes/></Row134><Row135><Sizes/></Row135><Row136><Sizes/></Row136><Row137><Sizes/></Row137><Row138><Sizes/></Row138><Row139><Sizes/></Row139><Row140><Sizes/></Row140><Row141><Sizes/></Row141><Row142><Sizes/></Row142><Row143><Sizes/></Row143><Row144><Sizes/></Row144><Row145><Sizes/></Row145><Row146><Sizes/></Row146><Row147><Sizes/></Row147><Row148><Sizes/></Row148><Row149><Sizes/></Row149><Row150><Sizes/></Row150><Row151><Sizes/></Row151><Row152><Sizes/></Row152><Row153><Sizes/></Row153><Row154><Sizes/></Row154><Row155><Sizes/></Row155><Row156><Sizes/></Row156><Row157><Sizes/></Row157><Row158><Sizes/></Row158><Row159><Sizes/></Row159><Row160><Sizes/></Row160><Row161><Sizes/></Row161><Row162><Sizes/></Row162><Row163><Sizes/></Row163><Row164><Sizes/></Row164><Row165><Sizes/></Row165><Row166><Sizes/></Row166><Row167><Sizes/></Row167><Row168><Sizes/></Row168><Row169><Sizes/></Row169><Row170><Sizes/></Row170><Row171><Sizes/></Row171><Row172><Sizes/></Row172><Row173><Sizes/></Row173><Row174><Sizes/></Row174><Row175><Sizes/></Row175><Row176><Sizes/></Row176><Row177><Sizes/></Row177><Row178><Sizes/></Row178><Row179><Sizes/></Row179><Row180><Sizes/></Row180><Row181><Sizes/></Row181><Row182><Sizes/></Row182><Row183><Sizes/></Row183><Row184><Sizes/></Row184><Row185><Sizes/></Row185><Row186><Sizes/></Row186><Row187><Sizes/></Row187><Row188><Sizes/></Row188><Row189><Sizes/></Row189><Row190><Sizes/></Row190><Row191><Sizes/></Row191><Row192><Sizes/></Row192><Row193><Sizes/></Row193><Row194><Sizes/></Row194><Row195><Sizes/></Row195><Row196><Sizes/></Row196><Row197><Sizes/></Row197><Row198><Sizes/></Row198><Row199><Sizes/></Row199><Row200><Sizes/></Row200><Row201><Sizes/></Row201><Row202><Sizes/></Row202><Row203><Sizes/></Row203><Row204><Sizes/></Row204><Row205><Sizes/></Row205><Row206><Sizes/></Row206><Row207><Sizes/></Row207><Row208><Sizes/></Row208><Row209><Sizes/></Row209><Row210><Sizes/></Row210><Row211><Sizes/></Row211><Row212><Sizes/></Row212><Row213><Sizes/></Row213><Row214><Sizes/></Row214><Row215><Sizes/></Row215><Row216><Sizes/></Row216><Row217><Sizes/></Row217><Row218><Sizes/></Row218><Row219><Sizes/></Row219><Row220><Sizes/></Row220><Row221><Sizes/></Row221><Row222><Sizes/></Row222><Row223><Sizes/></Row223><Row224><Sizes/></Row224><Row225><Sizes/></Row225><Row226><Sizes/></Row226><Row227><Sizes/></Row227><Row228><Sizes/></Row228><Row229><Sizes/></Row229><Row230><Sizes/></Row230><Row231><Sizes/></Row231><Row232><Sizes/></Row232><Row233><Sizes/></Row233><Row234><Sizes/></Row234><Row235><Sizes/></Row235><Row236><Sizes/></Row236><Row237><Sizes/></Row237><Row238><Sizes/></Row238><Row239><Sizes/></Row239><Row240><Sizes/></Row240><Row241><Sizes/></Row241><Row242><Sizes/></Row242><Row243><Sizes/></Row243><Row244><Sizes/></Row244><Row245><Sizes/></Row245><Row246><Sizes/></Row246><Row247><Sizes/></Row247><Row248><Sizes/></Row248><Row249><Sizes/></Row249><Row250><Sizes/></Row250><Row251><Sizes/></Row251><Row252><Sizes/></Row252><Row253><Sizes/></Row253><Row254><Sizes/></Row254><Row255><Sizes/></Row255><Row256><Sizes/></Row256><Row257><Sizes/></Row257><Row258><Sizes/></Row258><Row259><Sizes/></Row259><Row260><Sizes/></Row260><Row261><Sizes/></Row261><Row262><Sizes/></Row262><Row263><Sizes/></Row263><Row264><Sizes/></Row264><Row265><Sizes/></Row265><Row266><Sizes/></Row266><Row267><Sizes/></Row267><Row268><Sizes/></Row268><Row269><Sizes/></Row269><Row270><Sizes/></Row270><Row271><Sizes/></Row271><Row272><Sizes/></Row272><Row273><Sizes/></Row273><Row274><Sizes/></Row274><Row275><Sizes/></Row275><Row276><Sizes/></Row276><Row277><Sizes/></Row277><Row278><Sizes/></Row278><Row279><Sizes/></Row279><Row280><Sizes/></Row280><Row281><Sizes/></Row281><Row282><Sizes/></Row282><Row283><Sizes/></Row283><Row284><Sizes/></Row284><Row285><Sizes/></Row285><Row286><Sizes/></Row286><Row287><Sizes/></Row287><Row288><Sizes/></Row288><Row289><Sizes/></Row289><Row290><Sizes/></Row290><Row291><Sizes/></Row291><Row292><Sizes/></Row292><Row293><Sizes/></Row293><Row294><Sizes/></Row294><Row295><Sizes/></Row295><Row296><Sizes/></Row296><Row297><Sizes/></Row297><Row298><Sizes/></Row298><Row299><Sizes/></Row299><Row300><Sizes/></Row300><Row301><Sizes/></Row301><Row302><Sizes/></Row302><Row303><Sizes/></Row303><Row304><Sizes/></Row304><Row305><Sizes/></Row305><Row306><Sizes/></Row306><Row307><Sizes/></Row307><Row308><Sizes/></Row308><Row309><Sizes/></Row309><Row310><Sizes/></Row310><Row311><Sizes/></Row311><Row312><Sizes/></Row312><Row313><Sizes/></Row313><Row314><Sizes/></Row314><Row315><Sizes/></Row315><Row316><Sizes/></Row316><Row317><Sizes/></Row317><Row318><Sizes/></Row318><Row319><Sizes/></Row319><Row320><Sizes/></Row320><Row321><Sizes/></Row321><Row322><Sizes/></Row322><Row323><Sizes/></Row323><Row324><Sizes/></Row324><Row325><Sizes/></Row325><Row326><Sizes/></Row326><Row327><Sizes/></Row327><Row328><Sizes/></Row328><Row329><Sizes/></Row329><Row330><Sizes/></Row330><Row331><Sizes/></Row331><Row332><Sizes/></Row332><Row333><Sizes/></Row333><Row334><Sizes/></Row334><Row335><Sizes/></Row335><Row336><Sizes/></Row336><Row337><Sizes/></Row337><Row338><Sizes/></Row338><Row339><Sizes/></Row339><Row340><Sizes/></Row340><Row341><Sizes/></Row341><Row342><Sizes/></Row342><Row343><Sizes/></Row343><Row344><Sizes/></Row344><Row345><Sizes/></Row345><Row346><Sizes/></Row346><Row347><Sizes/></Row347><Row348><Sizes/></Row348><Row349><Sizes/></Row349><Row350><Sizes/></Row350><Row351><Sizes/></Row351><Row352><Sizes/></Row352><Row353><Sizes/></Row353><Row354><Sizes/></Row354><Row355><Sizes/></Row355><Row356><Sizes/></Row356><Row357><Sizes/></Row357><Row358><Sizes/></Row358><Row359><Sizes/></Row359><Row360><Sizes/></Row360><Row361><Sizes/></Row361><Row362><Sizes/></Row362><Row363><Sizes/></Row363><Row364><Sizes/></Row364><Row365><Sizes/></Row365><Row366><Sizes/></Row366><Row367><Sizes/></Row367><Row368><Sizes/></Row368><Row369><Sizes/></Row369><Row370><Sizes/></Row370><Row371><Sizes/></Row371><Row372><Sizes/></Row372><Row373><Sizes/></Row373><Row374><Sizes/></Row374><Row375><Sizes/></Row375><Row376><Sizes/></Row376><Row377><Sizes/></Row377><Row378><Sizes/></Row378><Row379><Sizes/></Row379><Row380><Sizes/></Row380><Row381><Sizes/></Row381><Row382><Sizes/></Row382><Row383><Sizes/></Row383><Row384><Sizes/></Row384><Row385><Sizes/></Row385><Row386><Sizes/></Row386><Row387><Sizes/></Row387><Row388><Sizes/></Row388><Row389><Sizes/></Row389><Row390><Sizes/></Row390><Row391><Sizes/></Row391></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>746</Bottom><Right>190</Right><x>-2</x><y>-2</y><xscreen>192</xscreen><yscreen>208</yscreen><sizeHorzCX>104235</sizeHorzCX><sizeHorzCY>200579</sizeHorzCY><sizeVertCX>104235</sizeVertCX><sizeVertCY>721311</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>746</Bottom><Right>291</Right><x>-2</x><y>-2</y><xscreen>192</xscreen><yscreen>208</yscreen><sizeHorzCX>104235</sizeHorzCX><sizeHorzCY>200579</sizeHorzCY><sizeVertCX>159066</sizeVertCX><sizeVertCY>721311</sizeVertCY></Rect></Wnd1></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1844</Right><x>-2</x><y>-2</y><xscreen>1846</xscreen><yscreen>200</yscreen><sizeHorzCX>1002172</sizeHorzCX><sizeHorzCY>192864</sizeHorzCY><sizeVertCX>108578</sizeVertCX><sizeVertCY>192864</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
